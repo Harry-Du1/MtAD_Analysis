@@ -1,2 +1,2 @@
-# MtAD_Analysis
+# mtad
 Code used for Mitochondria-related Metabolite Regression Analysis. 
